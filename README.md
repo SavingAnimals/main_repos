@@ -6,4 +6,4 @@
 ### [Lesson 5](https://savinganimals.github.io/klyho_maksim_homework5/index.html)
 ## Lesson 6:
 ### [Part 1](https://savinganimals.github.io/klyho_maksim_homework6/index.html)
-#### [Part 2](https://savinganimals.github.io/klyho_maksim_homework6_part2/index.html)
+### [Part 2](https://savinganimals.github.io/klyho_maksim_homework6_part2/index.html)
