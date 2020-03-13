@@ -9,3 +9,7 @@
 ### [Part 2](https://savinganimals.github.io/klyho_maksim_homework6_part2/index.html)
 ## Lesson 7:
 ### [Part 1](https://savinganimals.github.io/klyho_maksim_homework_7_part1/)
+### Part 2 (working)
+## Lesson 8:
+### [Part 1](https://savinganimals.github.io/klyho_maksim_homework_8_part1/)
+### [Part 2](https://savinganimals.github.io/klyho_maksim_homework8_part2/)
