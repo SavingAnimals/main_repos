@@ -17,3 +17,5 @@
 #### Lesson 10:
 ##### [Part 1](https://savinganimals.github.io/klyho_maksim_homework_10_part1/index.html)
 ##### [Part 2](https://savinganimals.github.io/klyho_maksim_homework_10_part2/)
+#### Lesson 11:
+##### [Part 1](https://savinganimals.github.io/klyho_maksim_homework_11_part1/index.html)
