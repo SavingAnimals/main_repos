@@ -28,3 +28,4 @@
 #### Lesson 15:
 ##### [Part 2](https://savinganimals.github.io/klyho_maksim_homework_15_part2/)
 #### [Lesson 16](https://savinganimals.github.io/klyho_maksim_homework16/index.html)
+#### [Exam Lesson 20](https://savinganimals.github.io/Exam/)
