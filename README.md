@@ -30,3 +30,4 @@
 #### [Lesson 16](https://savinganimals.github.io/klyho_maksim_homework16/index.html)
 #### [Exam Lesson 20](https://savinganimals.github.io/Exam/)
 #### [Lesson 22](https://savinganimals.github.io/SavingAnimals-klyho_maksim_homework22/)
+#### [Exam 47](https://savinganimals.github.io/Exam_47/)
